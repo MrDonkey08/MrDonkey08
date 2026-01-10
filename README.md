@@ -63,6 +63,35 @@ In the future, I plan to share my knowledge, not only through
 [my blog](https://mrdonkey08.github.io/), but also through other media. I would
 like to become a teacher, create courses, make YouTube videos, and more.
 
+### Certifications
+
+<div align="center">
+  <a href="https://www.credly.com/earner/earned/badge/757c64a3-e6c4-4375-9e3d-2e947f519342">
+    <img
+      alt="Google Cybersecurity Professional Certificate (v.2) ― Google"
+      src="https://images.credly.com/size/200x200/images/ef9f86ad-4e53-4dbc-8951-e4cab81ff09e/blob"
+    />
+  </a>
+
+  <img width="20"/>
+
+  <a href="https://www.credly.com/earner/earned/badge/440d7418-c5ce-47c7-8278-66d757cb69cc">
+    <img
+      alt="Network Technician Career Path ― Cisco"
+      src="https://images.credly.com/size/200x200/images/978f88dc-c247-4093-9d39-6efac3651297/image.png"
+    />
+  </a>
+
+  <img width="20"/>
+
+  <a href="https://www.credly.com/earner/earned/badge/3f88b6a6-9cad-4c1a-8e52-229d23b3a3c7">
+    <img
+      alt="Linux Essentials ― Cisco & NDG"
+      src="https://images.credly.com/size/200x200/images/e8fe3d67-2967-43d0-bc4a-7a268a37f47b/image.png"
+    />
+  </a>
+</div>
+
 ### My Favorite Programming Language
 
 My favorite programming language is **Rust** because it is focused to be modern,
