@@ -47,6 +47,30 @@ fn main() {
 }
 ```
 
+### Technologies
+
+### Reach Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/alan-yahir-juarez-rubio-0113a0310/">
+    <img
+      alt="Linkedin Logo"
+      src="https://skillicons.dev/icons?i=linkedin"
+      height="60"
+    />
+  </a>
+
+  <img width="12" />
+
+  <a href="mailto:alanyjr0817@proton.me">
+    <img
+      alt="Gmail Logo"
+      src="https://skillicons.dev/icons?i=gmail"
+      height="60"
+    />
+  </a>
+</div>
+
 ### About Me
 
 Hi, I'm **Alan**, a **Computer Engineering student** at the **Centro
