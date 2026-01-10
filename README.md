@@ -3,31 +3,47 @@
 <h2 align="center">Computer Engineering Student at CUCEI, UDG</h2>
 
 ```rust
+use std::collections::HashMap;
+
+#[allow(dead_code)]
 #[derive(Debug)]
 struct ComputerEngineer<'a> {
     name: &'a str,
     age: u8,
     occupation: &'a str,
-    preferred_langs: Vec<&'a str>,
+    languages: HashMap<&'a str, &'a str>,
+    preferred_programming_langs: Vec<&'a str>,
     hobbies: Vec<&'a str>,
+    interests: Vec<&'a str>,
 }
 
 fn main() {
     let mr_donkey_08 = ComputerEngineer {
         name: "Alan Yahir Juárez Rubio",
-        age: 22,
+        age: 23,
         occupation: "Student",
-        preferred_langs: vec!["Rust", "C", "C++", "Python", "Bash"],
+        languages: HashMap::from([("Spanish", "Native"), ("English", "B1")]),
+        preferred_programming_langs: vec!["Rust", "C", "C++", "Python", "Bash"],
         hobbies: vec![
+            "Learning",
             "Reading Books",
             "Playing Videogames",
             "Programming",
             "Building Computers",
-            "Fixing and Mantaining Computers",
+            "Computer Troubleshooting and Maintenance",
+        ],
+        interests: vec![
+            "Cybersecurity",
+            "Networking",
+            "Linux",
+            "IT",
+            "Operative Systems",
+            "Systems Development",
+            "Software Development",
         ],
     };
 
-    println!("{:#?}", mr_donkey08);
+    println!("{:#?}", mr_donkey_08);
 }
 ```
 
