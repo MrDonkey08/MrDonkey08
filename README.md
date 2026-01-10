@@ -49,15 +49,19 @@ fn main() {
 
 ### About Me
 
-Hi, I'm Alan, a student at the Centro Universitario de Ciencas Exactas e
-Ingenierías (CUCEI, UDG), currently in my 7th semester.
+Hi, I'm **Alan**, a **Computer Engineering student** at the **Centro
+Universitario de Ciencias Exactas e Ingenierías (CUCEI, UDG)**, currently in my
+eighth semester of nine.
 
-I'm a person passionated about **computer science, cibersecurity, networking and
-linux**.
+Currently, my main interests are **cybersecurity**, and **systems development**.
+I hope to soon become an expert in these fields.
 
-My current expertise field is **linux administration** and **software
-development**. I'm looking for become an expert in fields like **cibersecurity,
-server administration, system's software development and backend development**.
+I have high proficiency in fields such as cybersecurity, networking, Linux, IT,
+and software development.
+
+In the future, I plan to share my knowledge, not only through
+[my blog](https://mrdonkey08.github.io/), but also through other media. I would
+like to become a teacher, create courses, make YouTube videos, and more.
 
 ### My Favorite Programming Language
 
