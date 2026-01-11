@@ -85,43 +85,43 @@ fn main() {
     src="https://skillicons.dev/icons?i=bash"
     height="60"
   />
-  <img width="8" />
+  <img width="3" />
   <img
     alt="Python Logo"
     src="https://skillicons.dev/icons?i=py"
     height="60"
   />
-  <img width="8" />
+  <img width="3" />
   <img
     alt="PostgreSQL Logo"
     src="https://skillicons.dev/icons?i=postgres"
     height="60"
   />
-  <img width="8" />
+  <img width="3" />
   <img
     alt="Git Logo"
     src="https://skillicons.dev/icons?i=git"
     height="60"
   />
-  <img width="8" />
+  <img width="3" />
   <img
     alt="GitHub Logo"
     src="https://skillicons.dev/icons?i=github"
     height="60"
   />
-  <img width="8" />
+  <img width="3" />
   <img
     alt="Markdown Logo"
     src="https://skillicons.dev/icons?i=md"
     height="60"
   />
-  <img width="8" />
+  <img width="3" />
   <img
     alt="LaTex Logo"
     src="https://skillicons.dev/icons?i=latex"
     height="60"
   />
-  <img width="8" />
+  <img width="3" />
   <img
     alt="Regex Logo"
     src="https://skillicons.dev/icons?i=regex"
@@ -140,7 +140,7 @@ fn main() {
     />
   </a>
 
-  <img width="12" />
+  <img width="3" />
 
   <a href="mailto:alanyjr0817@proton.me">
     <img
