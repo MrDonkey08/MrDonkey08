@@ -47,7 +47,87 @@ fn main() {
 }
 ```
 
-### Technologies
+### Main Technologies
+
+<div align="center">
+  <img
+    alt="Arch Logo"
+    src="https://skillicons.dev/icons?i=arch"
+    height="60"
+  />
+  <img width="3" />
+  <img
+    alt="Neovim Logo"
+    src="https://skillicons.dev/icons?i=neovim"
+    height="60"
+  />
+  <img width="3" />
+  <img
+    alt="Rust Logo"
+    src="https://skillicons.dev/icons?i=rust"
+    height="60"
+  />
+  <img width="3" />
+  <img
+    alt="C Logo"
+    src="https://skillicons.dev/icons?i=c"
+    height="60"
+  />
+  <img width="3" />
+  <img
+    alt="Cpp Logo"
+    src="https://skillicons.dev/icons?i=cpp"
+    height="60"
+  />
+  <img width="3" />
+  <img
+    alt="Bash Logo"
+    src="https://skillicons.dev/icons?i=bash"
+    height="60"
+  />
+  <img width="8" />
+  <img
+    alt="Python Logo"
+    src="https://skillicons.dev/icons?i=py"
+    height="60"
+  />
+  <img width="8" />
+  <img
+    alt="PostgreSQL Logo"
+    src="https://skillicons.dev/icons?i=postgres"
+    height="60"
+  />
+  <img width="8" />
+  <img
+    alt="Git Logo"
+    src="https://skillicons.dev/icons?i=git"
+    height="60"
+  />
+  <img width="8" />
+  <img
+    alt="GitHub Logo"
+    src="https://skillicons.dev/icons?i=github"
+    height="60"
+  />
+  <img width="8" />
+  <img
+    alt="Markdown Logo"
+    src="https://skillicons.dev/icons?i=md"
+    height="60"
+  />
+  <img width="8" />
+  <img
+    alt="LaTex Logo"
+    src="https://skillicons.dev/icons?i=latex"
+    height="60"
+  />
+  <img width="8" />
+  <img
+    alt="Regex Logo"
+    src="https://skillicons.dev/icons?i=regex"
+    height="60"
+  />
+</div>
 
 ### Reach Me
 
