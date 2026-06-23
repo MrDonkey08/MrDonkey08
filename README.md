@@ -12,9 +12,9 @@ struct ComputerEngineer<'a> {
     age: u8,
     occupation: &'a str,
     languages: HashMap<&'a str, &'a str>,
-    preferred_programming_langs: Vec<&'a str>,
+    favorite_programming_langs: Vec<&'a str>,
     hobbies: Vec<&'a str>,
-    interests: Vec<&'a str>,
+    main_interests: Vec<&'a str>,
 }
 
 fn main() {
@@ -23,7 +23,7 @@ fn main() {
         age: 23,
         occupation: "Student",
         languages: HashMap::from([("Spanish", "Native"), ("English", "B1")]),
-        preferred_programming_langs: vec!["Rust", "C", "C++", "Python", "Bash"],
+        favorite_programming_langs: vec!["Rust", "C", "C++", "Bash", "Python", "Nasm"],
         hobbies: vec![
             "Learning",
             "Reading Books",
@@ -32,14 +32,15 @@ fn main() {
             "Building Computers",
             "Computer Troubleshooting and Maintenance",
         ],
-        interests: vec![
+        main_interests: vec![
             "Cybersecurity",
-            "Networking",
             "Linux",
-            "IT",
-            "Operative Systems",
+            "Networking",
+            "Systems Administration",
+            "DevOps",
+            "Operating Systems",
             "Systems Development",
-            "Software Development",
+            "Backend Development",
         ],
     };
 
@@ -83,13 +84,14 @@ fn main() {
 
 Hi, I'm **Alan**, a **Computer Engineering student** at the **Centro
 Universitario de Ciencias Exactas e Ingenierías (CUCEI, UDG)**, currently in my
-eighth semester of nine.
+last semester.
 
-Currently, my main interests are **cybersecurity**, and **systems development**.
-I hope to soon become an expert in these fields.
+Currently, my main interests are **Cybersecurity**, **Systems Administration**,
+**DevOps**, **Systems Developmen** and **Backend Development**. I hope to become an
+expert in these fields soon.
 
-I have high proficiency in fields such as cybersecurity, networking, Linux, IT,
-and software development.
+I have high proficiency in fields such as Cybersecurity, Networking, Linux, IT,
+and Software Development.
 
 In the future, I plan to share my knowledge, not only through
 [my blog](https://mrdonkey08.github.io/), but also through other media. I would
